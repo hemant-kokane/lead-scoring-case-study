@@ -4,4 +4,3 @@
 #### Lead_Scoring_Case_Study_PPT - It is PPT presentation for project
 #### Assignment_Subjective_Questions - It contain answers to company problems
 #### Summary - Overall summary of project
-#### Thank You
